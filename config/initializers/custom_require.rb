@@ -1,0 +1,1 @@
+require 'replace_with_dynamic_content'
